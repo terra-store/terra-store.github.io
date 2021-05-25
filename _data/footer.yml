@@ -8,11 +8,7 @@
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/terrastore/
+  - name: Github
+    link: https://github.com/terra-store/
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/terra-store/
-    social_icon: Twitter
-    new_window: true
+    social_icon: Github
