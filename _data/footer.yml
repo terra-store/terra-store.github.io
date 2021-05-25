@@ -1,0 +1,18 @@
+- links:
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+- links:
+  - name: Docs
+    link: /
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://facebook.com/terrastore/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/terra-store/
+    social_icon: Twitter
+    new_window: true
